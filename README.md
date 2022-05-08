@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prateek25_2000" target="blank"><img src="https://img.shields.io/twitter/follow/prateek25_2000?logo=twitter&style=for-the-badge" alt="prateek25_2000" /></a> </p>
 
-- 🔭 I’m currently working on **Tour & Travel**
+- 🔭 I’m currently working on **Android Studio**
 
 - 🌱 I’m currently learning **DSA**
 
