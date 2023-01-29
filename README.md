@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://prateekkasaudhan.io)
-<h1 align="center">Hello Coders 👋, I'm Prateek</h1>
-<h3 align="center"><ins>A passionate developer from India</ins></h3>
+<h1 align="center">Hello <ins>Coders</ins> 👋, I'm Prateek</h1>
+<h3 align="center"><i>A passionate developer from India</i></h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/HFyq7F0-JwIAAAAd/focus-laptop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek6391&label=Profile%20views&color=0e75b6&style=flat" alt="prateek6391" /> </p>
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Advanced DSA**
 
-- 💬 Ask me about **Android, frontend WebD**
+- 💬 Ask me about **frontend WebD, Android**
 
 - 📫 How to reach me **prateekkasaudhan123@gmail.com , 6391401813**
 
